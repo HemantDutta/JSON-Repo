@@ -1,3 +1,9 @@
-{
-  notif: "You have 2 new bids and 3 messages"
-}
+[
+
+  {
+    notif: "You have 2 Bids"
+  },
+  {
+    notif: "You have 3 messages"
+  }
+]
