@@ -1,9 +1,11 @@
 [
 
   {
+    "notId": 1,
     "notif": "You have 2 Bids"
   },
   {
+    "notId": 2,
     "notif": "You have 3 messages"
   }
 ]
